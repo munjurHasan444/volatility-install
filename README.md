@@ -10,4 +10,4 @@
 ****step 6>sudo python setup.py build install<br>
 **** step 7>sudo apt-get install yara -y<br>
 ****step 8><br>
-[volatility](https://user-images.githubusercontent.com/70683405/123555616-976e5500-d7a8-11eb-8bad-576b2b010aad.png)
+![volatility](https://user-images.githubusercontent.com/70683405/123555616-976e5500-d7a8-11eb-8bad-576b2b010aad.png)
