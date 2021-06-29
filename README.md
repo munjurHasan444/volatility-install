@@ -20,15 +20,7 @@ click the Download option as you see my picture.
      step 14>tar -xvzf pycrypto-2.6.1.tar.gz
      step 15>cd pycrypto-2.6.1
      step 16>sudo python setup.py build
-     step 17>sudo python setup.py build install step 1>git clone https://github.com/volatilityfoundation/volatility.git
- step 2>sudo apt-get install pcregrep libpcre++-dev python-dev -y
- step 3>cd volatility
- step 4>sudo python setup.py install
- step 5>python setup.py build
- step 6>sudo python setup.py build install
- step 7>sudo apt-get install yara -y
- step 8>
-
+     step 17>sudo python setup.py build install
      step 18>vol.py --h
 
 Then you can see you have installed volatility successfully.
