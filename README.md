@@ -1,7 +1,7 @@
 # volatility-install
 # 🔥munjur hasan
      step 1>git clone https://github.com/volatilityfoundation/volatility.git
-     step 2>sudo apt-get install pcregrep libpcre++-dev python-dev -y
+     step 2>sudo apt-get install pcregrep libpcre++-dev python2-dev -y
      step 3>cd volatility
      step 4>sudo python2 setup.py install
      step 5>python2 setup.py build
