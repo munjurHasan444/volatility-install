@@ -18,15 +18,15 @@ click the Download option as you see my picture.
 After downloading the zip file unzip it.
 
 	apt install unzip
-     unzip [downloaded_folder.zip]
+     	unzip [downloaded_folder.zip]
 	cd [downloaded_folder]
-     cd distorm3
-     python2 setup.py build
-     python2 setup.py build install
-     tar -xvzf pycrypto-2.6.1.tar.gz
-     cd pycrypto-2.6.1
+     	cd distorm3
+     	python2 setup.py build
+     	python2 setup.py build install
+    	tar -xvzf pycrypto-2.6.1.tar.gz
+     	cd pycrypto-2.6.1
 	python2 setup.py build
-     python2 setup.py build install
-     vol.py --h
+     	python2 setup.py build install
+     	vol.py --h
 
 Then you can see you have installed volatility-2 successfully.
